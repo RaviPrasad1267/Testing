@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f266ae7e-c13c-4920-b9b4-e85dd03528de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DBConnect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-2 Print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2-Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2-TypeCon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3-Arithmetic Op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileConce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keywordandidenti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListandListMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModuleandPackages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nestedtuplesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringFun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringSlicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Today_Topics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fibnosisres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filterusinglambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listofelementspower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxandsumoflistel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polindromecheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primechec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reversestr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sumofdigits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tablewithuserinput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vowelscount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xpowery.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2bH0wCzLish5FIssSkH0nMewOJy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Control Flow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DBConnect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day-2 Print (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day2-Input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day2-TypeCon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day3-Arithmetic Op.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileConce.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Keywordandidenti.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListandListMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ModuleandPackages.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Nestedtuplesort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringFun.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringSlicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibnosisres.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filterusinglambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listofelementspower.executor&quot;: &quot;Run&quot;,
+    &quot;Python.maxandsumoflistel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polindromecheck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.primechec.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reversestr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_fun.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sumofdigits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tablewithuserinput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vowelscount.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xpowery.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.Interview">
+    <configuration name="FileConce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileConce.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Interview" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ListandListMethods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ListandListMethods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Interview" />
+        <item itemvalue="Python.set" />
+        <item itemvalue="Python.ListandListMethods" />
+        <item itemvalue="Python.Tuple" />
+        <item itemvalue="Python.FileConce" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f266ae7e-c13c-4920-b9b4-e85dd03528de" name="Changes" comment="" />
+      <created>1705856933339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705856933339</updated>
+    </task>
+    <servers />
+  </component>
+</project>
