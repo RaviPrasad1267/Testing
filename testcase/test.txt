@@ -1,1 +1,1 @@
-Creating merge request to create merge conflict.
+Creating merge request to create merge conflict. New changes
