@@ -14,7 +14,7 @@ for i in range(len(s)):
     else:
         output += s[i] + str(count)
         count = 1
-print(output)
+print(output)       # comment added
 
 
 
