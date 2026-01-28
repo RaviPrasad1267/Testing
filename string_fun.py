@@ -21,7 +21,7 @@ def sqr(n):
 
 result = list(map(sqr,numbers))
 print("Using defination",result)
-reult1 =list(map(lambda x:x**2,numbers))
+reult1 =list(map(lambda x:x**x,numbers))
 print("Using lambda",reult1)
 
 def printnum(n):

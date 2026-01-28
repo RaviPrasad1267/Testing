@@ -1,26 +1,27 @@
-# list1=[1,10,4,100,5,1000]
-# list2=[1,2,10.5,"Sureshk"]
-# list3=[]
+list1=[1,10,4,100,5,1000]
+list2=[1,2,10.5,"Sureshk"]
+list3=[]
 # print(list2)
 # print(list1[0::3])
 # print(list1[0:7:])   #output : [1,2,3,4,5,6,7]
 # print(list1[2:9:])
-# print(list1[-10:-2:])  #output : [1,2,3,4,5,6]
+# print("Hello",list1[-10:-2:])  #output : [1,2,3,4,5,6]
 
-#append
-# print(list2)
-# list2.append("Ravi")
-# print("Append:",list2)
-# list2.insert(1,5000)
-# print("insert",list2)
-# list2.remove(5000)
-# print("remove",list2)
-# list2.pop(3)
-# print("pop",list2)
+# append
+print(list2)
+list2.append("Ravi")
+print("Append:",list2)
+list2.insert(1,5000)
+print("insert",list2)
+list2.remove(5000)
+print("remove",list2)
+list2.pop(3)
+print("pop",list2)
 
 # Interview question
 # method-1
-list1=[10,20,40,'abcd',78,60,'manju','ravi']
+list1=[10,20,40,'abcd']
+
 # Output : [10,20,40,'dcba',78,60]
 # str=list1[3]
 # print(str)
@@ -30,31 +31,32 @@ list1=[10,20,40,'abcd',78,60,'manju','ravi']
 # print(list1)
 # list1.insert(3,reversestr)
 # print(list1)
-
-expectedoutput=[x[::-1] if isinstance(x,str) else x for x in list1 ]
-print("Expected output:",expectedoutput)
+# list1=[10,20,40,'abcd',78,60,'manju','ravi']
+# # output list1=[10,20,40,'dcba',78,60,'ujnam','ivar']
+# expectedoutput=[x[::-1] if isinstance(x,str) else x for x in list1 ]
+# print("Expected output:",expectedoutput)
 
 list20=[100,5000,40,10,45637,1,5,8,3,5,3,5,3,5,3,5,5,5]
-# print("Before sort my list20 values are:",list20)
-# list20.sort()
-# print("After sort my list20 values are:",list20)
-# list20.sort(reverse=True)
-# print("After descending sort my list10 values are:",list20)
+print("Before sort my list20 values are:",list20)
+list20.sort()
+print("After sort my list20 values are:",list20)
+list20.sort(reverse=True)
+print("After descending sort my list10 values are:",list20)
 
-# print("Before reverse my list20 values are :",list20)
-# print("After reverse Using [::-1] list20 values are :",list20[::-1])
-# list20.reverse()
-# print("After  reverse my list20 values are :",list20)
+print("Before reverse my list20 values are :",list20)
+print("After reverse Using [::-1] list20 values are :",list20[::-1])
+list20.reverse()
+print("After  reverse my list20 values are :",list20)
 
-# print(list20.count(5))
-# list30=[1,5,4,"Suresh","Ravi",3.5,100]
-# print("Before extend method my list20 valuea are:",list20)
-# list20.extend(list30)
-# print("After we applied extend method :",list20)
-# print(list20)
-# print("Before extend method my list30 valuea are :",list30)
-# list30.extend(list20)
-# print("After we applied extend method :",list30)
+print(list20.count(5))
+list30=[1,5,4,"Suresh","Ravi",3.5,100]
+print("Before extend method my list20 valuea are:",list20)
+list20.extend(list30)
+print("After we applied extend method :",list20)
+print(list20)
+print("Before extend method my list30 valuea are :",list30)
+list30.extend(list20)
+print("After we applied extend method :",list30)
 
 
 # # my_name='Suresh'
@@ -107,6 +109,7 @@ Oddlist=[]
 #         Oddlist.append(i)
 # print("Even number list is:",Evenlist)
 # print("Odd number lis is: ",Oddlist)
+
 # [expression for item in iterable if condition]
 # Evenlist = [i for i in input1 if i%2==0]
 # Oddlist = [i for i in input1 if i%2!=0]

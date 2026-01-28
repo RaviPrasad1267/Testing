@@ -7,23 +7,12 @@ What is Python?  1990 - --2025
 almost
 35
 2.
-Features
-of
-Python
-3.
-Python is Case
-Sensitive - ---sql?
-4.
-Python
-Uses
-Indentation - ---sql?     java, c, c + + {}
-5.
-Dynamically
-typed - ----sql?
-6.
-Comments in Python - -----
-7.
-What is sourcecode
+Features of Python
+3.Python is Case Sensitive - ---sql?
+4.Python Uses Indentation - ---sql?     java, c, c + + {}
+5.Dynamically typed - ----sql?
+6.Comments in Python - -----
+7.What is sourcecode
 
 Python
 Day2
@@ -39,52 +28,18 @@ variable_name = input(prompt)
 3.
 Keywords & Identifiers
 ●    Keywords
-are
-also
-called as Reserved
-Words.
-●    All
-the
-keywords
-can
-be in Lower
-Case or upper
-Case.
-●    We
-cannot
-use
-a
-keyword as a
-variable
-name, function
-name or any
-other
+are also called as Reserved Words.
+● All the  keywords can be in Lower Case or upper Case.
+● We cannot use a keyword as a variable
+name, function name or any other
+
 identifier.
-●    They
-are
-used
-to
-define
-the
-syntax and structure
-of
-the
-Python
-language.
-In
+●    They are used to define the
+syntax and structure of the Python language.In
 Python, keywords
 are
 case - sensitive.
-4.
-Identifiers
-are
-the
-names
-used
-to
-identify
-a
-variable, function,
+4.Identifiers are the names used to identify a variable, function,
 
 
 class ,
@@ -98,60 +53,21 @@ zero or more
 letters,
 underscores, and digits(0 - 9).
 ●    Python is case - sensitive, so
-myVariable and myvariable
-are
-two
-different
-identifiers.
+myVariable and myvariable are two different identifiers.
 
 5.
 Identifiers
 Rules
 for writing identifiers:
-    Identifiers
-    can
-    be
-    a
-    combination
-    of
-    letters in lowercase(a
-    to
-    z) or uppercase(A
-    to
-    Z) or
-    digits(0
-    to
-    9) or an
-    underscore(_).
+Identifiers     can be a combination of letters in lowercase(a toz) or uppercase(A to Z) or digits(0 to 9) or an
+underscore(_).
 
-    ●    An
-    identifier
-    cannot
-    start
-    with a digit.
-    ●    Keywords
-    cannot
-    be
-    used as identifiers.
-    ●    We
-    cannot
-    use
-    special
-    symbols
-    like !,
+●    An identifier cannot start with a digit.
+●    Keywords  cannot be used as identifiers.
+●    We cannot  use  special   symbols  like !, @,  # , $, %, etc. in our identifier.
+●    An identifier can be of  any  length.
 
-    @
-
-    ,  # , $, %, etc. in our identifier.
-    ●    An
-    identifier
-    can
-    be
-    of
-    any
-    length.
-
-    5.
+ 5.
     Variables and Data
     Types
     ●    A
@@ -301,13 +217,7 @@ for writing identifiers:
     A
     for loop is used to iterate over a sequence
     (like a list, tuple, string, or range).
-    It
-    executes
-    a
-    block
-    of
-    code
-    once
+    It executes a block of code once
     for each item in the sequence.
 
     While:
@@ -329,14 +239,7 @@ for writing identifiers:
     statement
 
     Definition:
-    Used
-    to
-    skip
-    the
-    current
-    iteration and
-    continue
-    with the next one.
+    Used to skip the current iteration and continue with the next one.
 
     break:
     SYNTAX:
@@ -371,48 +274,23 @@ for writing identifiers:
 
     List:
     Defination:
-    A
-    list in Python is an
-    ordered
-    collection
-    of
-    items.
-    It
-    can
-    store
-    different
-    data
-    types(int, float, string, etc.)
-    and is mutable(can
-    be
-    changed).
+    A list in Python is an ordered collection of items. It can store different data
+    types(int, float, string, etc.) and is mutable(can be changed).
 
-    Common
-    List
-    Methods
+    Common List Methods
     -------------------
-    1.
-    append()
-    2.
-    insert()
+    1.append()
+    2.insert()
     syntax: list_name.insert(index, item)
-    3.
-    remove()
+    3.remove()
     syntax: list_name.remove(item)
-    4.
-    pop()
+    4.pop()
     syntax: list_name.pop(index)
-    5.
-    sort()
-    By
-    defult: ASC
-    6.
-    reverse()
+    5.sort() By defult: ASC
+    6.reverse()
     syntax:
-    7.
-    count()
-    8.
-    extend()
+    7.count()
+    8.extend()
 
     formating
     string
@@ -585,10 +463,10 @@ pip install pytest
 
 
 Python - Day11
---------------
+-------------------
 ✅ 1. Introduction to Object-Oriented Programming (OOP)
-Object-Oriented Programming (OOP) is a programming paradigm where you structure your code using objects—these objects represent real-world
-things and contain:
+Object-Oriented Programming (OOP) is a programming paradigm where you structure your code using objects—these objects
+represent real-world things and contain:
 
 Data (variables) → called attributes
 
@@ -605,6 +483,96 @@ Functions (methods) → behaviors the object can perform
 ✅ 3. __init__() Method (Constructor)
 ✅ 4.Inheritance in Python (Complete Guide)
 ⭐ 1. Single Inheritance  : A child class inherits from one parent class.
+
+
+Python - Day12
+--------------
+OOP Concepts Continue
+✅ 3. __init__() Method (Constructor)
+️✅ 4. Encapsulation
+        4.1 Public   : public attributes → can be accessed anywhere
+        4.2 Protect : Single_ :  protected attributes _var → should be accessed within class/subclass
+        4.3 Privite : Double __     private attributes __var → not accessible directly outside the class
+
+✅ 5.Polymorphism
+One name, many forms — the same function/method behaves differently for different objects.
+
+ 5.1 the number/type of arguments (overloading)
+ 5.2 the class in which it is implemented (overriding)
+
+    **Polymorphism has 2 types:
+
+    1.Compile-time Polymorphism → Method Overloading
+    2.Runtime Polymorphism → Method Overriding
+
+✅  6. Abstraction
+Showing only the necessary details and hiding complex internal implementation.
+✔ Why?
+To reduce complexity.
+✔ How in Python?
+Using abstract classes and abstract methods (abc module).
+
+
+
+Python - Day12
+--------------------------------------
+🔹 1. Lambda Functions
+    Syntax: lambda arguments: expression
+    Examples:
+        1.✔ Example 1: Add 10 to a number
+        2.✔ Example 2: Multiply two numbers
+        3.✔ Example 3: Sorting with lambda
+
+🔹 2. map()
+    Syntax: map(function, iterable)
+    Examples:
+    1.✔ Example 1: Square each number
+    2.✔ Example 2: Convert strings to integers
+    3.✔ Example 3: Add items of two lists
+
+🔹 3. filter()
+    Syntax: filter(function, iterable)
+    Examples:
+    1.✔ Example 1: Keep even numbers
+    2.✔ Example 2: Keep strings with length > 3
+    3.✔ Example 3: Keep positive numbers
+
+🟦 4. reduce()?
+    Import:
+        from functools import reduce
+    Syntax: reduce(function, iterable[, initializer])
+    Examples:
+    🟩 1. Example: Sum of List
+    🟩 2. Example: Product of List
+    🟦 3.Using Initializer (Optional Third Argument)
+
+✅ ETL Transformation Rules
+    1.1️⃣ Expression Transformation     # Exampple source : frist Name, Last Name   Target: EmpName(First+Last)
+    2.2️⃣ Sort Transformation           # Sorter have two sort 1.asc and 2. desc #  Based empid or stduentid
+    3.3️⃣ Lookup Transformation         # Source emp and dept(dloc) :   emp who are working Bangalore location Target table()
+    4.4️⃣ Aggregate Transformation      # sum,count,avg,max,min  : Data filter
+    5.5️⃣ Filter Transformation        # Based condition we can filter HYD : Amirpet voter list   : Row Count change
+    6.9️⃣ Router Transformation        #    Networking roueter : IP addres 1,2,3,4,5  Loc or  deptment  or etc....
+    7.1️⃣1 Rank Transformation        #  winwods   Top N records, Botton n records
+    8.1️⃣3 Data Masking Transformation  #    any bank Net banking Login it will display , Account number, Credit Carrds
+    9.1️⃣4 Pivot Transformation        #
+
+
+
+# When you are student  appling for BE UI Application
+
+
+Pivote Syntax:
+SELECT *
+FROM (select column names table_name)
+PIVOT (
+    aggregate_function(column_to_aggregate)
+    FOR column_to_turn_into_columns IN (value1, value2, value3...)
+);
+
+sum(sal) deptatment wise
+-----------------
+
 
 
 

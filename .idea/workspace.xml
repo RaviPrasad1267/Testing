@@ -5,8 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f266ae7e-c13c-4920-b9b4-e85dd03528de" name="Changes" comment="testing file">
+      <change afterPath="$PROJECT_DIR$/Abstraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arthmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dict1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Filter1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LambdaFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lamdba1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Map1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readuce1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set1.Py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringSlicing,py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stringfunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_ifelse_if_elseif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Interview.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListandListMethods.py" beforeDir="false" afterPath="$PROJECT_DIR$/ListandListMethods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringSlicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/StringSlicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Today_Topics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Today_Topics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set.py" beforeDir="false" afterPath="$PROJECT_DIR$/set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_fun.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +65,9 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Arthmetic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Constructor.executor&quot;: &quot;Run&quot;,
     &quot;Python.Control Flow.executor&quot;: &quot;Run&quot;,
     &quot;Python.DBConnect.executor&quot;: &quot;Run&quot;,
     &quot;Python.Day-1.executor&quot;: &quot;Run&quot;,
@@ -43,28 +77,48 @@
     &quot;Python.Day2-TypeCon.executor&quot;: &quot;Run&quot;,
     &quot;Python.Day3-Arithmetic Op.executor&quot;: &quot;Run&quot;,
     &quot;Python.Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dict1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Encapsulation.executor&quot;: &quot;Run&quot;,
     &quot;Python.Examples.executor&quot;: &quot;Run&quot;,
     &quot;Python.Exceptions.executor&quot;: &quot;Run&quot;,
     &quot;Python.FileConce.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Filter1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Input.executor&quot;: &quot;Run&quot;,
     &quot;Python.Interview.executor&quot;: &quot;Run&quot;,
     &quot;Python.Keywordandidenti.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LambdaFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lamdba1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List1.executor&quot;: &quot;Run&quot;,
     &quot;Python.ListandListMethods.executor&quot;: &quot;Run&quot;,
     &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Map1.executor&quot;: &quot;Run&quot;,
     &quot;Python.ModuleandPackages.executor&quot;: &quot;Run&quot;,
     &quot;Python.Nestedtuplesort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Reduce.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Set1.Py.executor&quot;: &quot;Run&quot;,
     &quot;Python.StringFun.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringSlicing,py.executor&quot;: &quot;Run&quot;,
     &quot;Python.StringSlicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stringfunctions.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple1.executor&quot;: &quot;Run&quot;,
     &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
     &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
     &quot;Python.fibnosisres.executor&quot;: &quot;Run&quot;,
     &quot;Python.filterusinglambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if_ifelse_if_elseif.executor&quot;: &quot;Run&quot;,
     &quot;Python.listofelementspower.executor&quot;: &quot;Run&quot;,
     &quot;Python.maxandsumoflistel.executor&quot;: &quot;Run&quot;,
     &quot;Python.new.executor&quot;: &quot;Run&quot;,
     &quot;Python.polindromecheck.executor&quot;: &quot;Run&quot;,
     &quot;Python.primechec.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print.executor&quot;: &quot;Run&quot;,
     &quot;Python.reversestr.executor&quot;: &quot;Run&quot;,
     &quot;Python.set.executor&quot;: &quot;Run&quot;,
     &quot;Python.string_fun.executor&quot;: &quot;Run&quot;,
@@ -75,11 +129,12 @@
     &quot;Python.xpowery.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MC/Desktop/Python Notes/etl_testing/Testing&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Interview">
-    <configuration name="FileConce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Filter1">
+    <configuration name="Filter1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileConce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Filter1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Interview" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,7 +169,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ListandListMethods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LambdaFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +191,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ListandListMethods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LambdaFunctions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lamdba1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,7 +213,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lamdba1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Map1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,7 +235,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Map1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Interview" />
-        <item itemvalue="Python.set" />
-        <item itemvalue="Python.ListandListMethods" />
-        <item itemvalue="Python.Tuple" />
-        <item itemvalue="Python.FileConce" />
+        <item itemvalue="Python.Filter1" />
+        <item itemvalue="Python.Map1" />
+        <item itemvalue="Python.Lamdba1" />
+        <item itemvalue="Python.LambdaFunctions" />
+        <item itemvalue="Python.Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -238,5 +293,16 @@
     <MESSAGE value="test" />
     <MESSAGE value="testing file" />
     <option name="LAST_COMMIT_MESSAGE" value="testing file" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/List1.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

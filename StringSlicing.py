@@ -9,7 +9,7 @@ print(str[0::1])
 print(str[0::2])    #2-Skip one char  3-skip 2 char
 print(str[0::3])   # output:Wceoyo
 
-print(str[-1::])   #list
+print("Hello",str[-1::])   #list
 
 my_input='wanderfulday'  # output: wnefla
 print(my_input[0::2])

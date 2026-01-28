@@ -1,9 +1,9 @@
 # Set:
 # 1.Definition
 #
-# A list is an ordered, mutable, collection of  elements.
-# A tuple is an ordered, nonmutable, collection of  elements.
+# A list is an ordered, Hetiroginus and mutable, collection of  elements.
 # A set is an unordered, mutable, collection of unique elements.
+# A tuple is an ordered, Hetiroginus and nonmutable, collection of  elements.
 # A dictionary is a mutable, unordered collection of key–value pairs.
 #
 #
@@ -76,8 +76,8 @@ print("intersection is using the | symbol",s9 & s10)
 
 #     🔶 3. Difference (- or .difference())
 
-print("difference using union method:",s9.difference(s10))
-print("difference is using the | symbol",s9 - s10)
+print("difference using difference method:",s9.difference(s10))
+print("difference is using the - symbol",s9 - s10)
 
 #     🔶 4. Symmetric Difference (^ or .symmetric_difference())
 

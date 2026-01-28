@@ -22,9 +22,9 @@ list2=[2,3,3,4,4,4,4,5,5,5,8,9]
 distinctele=set([x for x in list2])
 distinctelelist=list(distinctele)
 print("Distinct elements from the list is:",distinctelelist)
-output2=[x for x in list2 if list2.count(x)>1]
-print("Duplicate elemenst are:",output2)
-Dupdis=set(output2)
+Duplicatesele=[x for x in list2 if list2.count(x)>1]
+print("Duplicate elemenst are:",Duplicatesele)
+Dupdis=set(Duplicatesele)
 Final=list(Dupdis)
 print("Distinct duplicate elemesta are:",Final)
 

@@ -16,7 +16,7 @@ def add():
     c=a+b
     print("add fun Two number sum is:",c)
 
-add()
+add()   # Fun calling
 
 
 # 2. Arguments and Return Values
@@ -55,11 +55,11 @@ keywordfun(age=87,name="jordan")
 
 def VLPAfun(*args):
     print("My args values are:",args)
-    print(args[0])
+    print(args[1])
 
 VLPAfun(1,2,4)
-VLPAfun(1,2)
-VLPAfun(1)
+VLPAfun(1,30)
+#VLPAfun(1)
 VLPAfun(1,4,5,6,7,8,9,10000)
 
 # 6. **kwargs (Variable-Length Keyword Arguments)
